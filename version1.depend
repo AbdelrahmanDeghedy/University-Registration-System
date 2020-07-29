@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1595433031 source:c:\users\mahmo\desktop\my project\version1\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	<ctime>
+	<sstream>
+	<utility>
+	<stdlib.h>
+
+1595562270 source:c:\users\mahmo\desktop\university registration system\version1\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+	<ctime>
+	<sstream>
+	<utility>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+//please follow this exact format
+First Name  middle name	last name Gender Department  Nationality  Home phone number Mobile Number  Contact Email		Day	Month	year	Country Name	Governorate Name	City Name	Area Name	Street Name	House Number	Flat Number	Postal Code	(1 if home address = mail address, 0 otherwise)->>	Country Name	Governorate Name	City Name	Area Name	Street Name	House Number	Flat Number	Postal Code
+Abdelrahman Ehab   	Deghedy    0 	  1 	     Egyptian 	  0453355984 	    01157756842    deghedy2016@gmail.com	5	3	2001	Egypt		Al-buhaira 		Damanhur	Shobra		Somewhere!	123		1		12345		1							
+Habiba 	    Ehab   	Deghedy    1 	  0 	     Egyptian 	  0453355984 	    01157756842    Habiba_Test@gmail.com	9	11	2003	Egypt		Al-buhaira 		Damanhur	Shobra		!erehwemos	456		3		13345		1
+Mahmoud     Ehab   	Deghedy    0 	  1 	     Egyptian 	  0453355984 	    01157756842    Mahmoud_Test@gmail.com	1	11	1998	Egypt		Al-buhaira 		Damanhur	Shobra		Somewhere!	789		5		23113		0							another		random			place		for 		testing		101		10		88551		
