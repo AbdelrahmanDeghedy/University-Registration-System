@@ -1385,7 +1385,7 @@ int main()
         int x = 0;
         system("CLS");
         cout << "University Registration System V 1.00\t Created by: Abdelrahman Ehab   Deghedy\n\n";
-        cout << "If you find any bug, please contact me at:\n\n\tDeghedy2016@gmail.com      or      FB.com/AbdelrahmandDghedy\n";
+        cout << "If you find any bug, please contact me at:\n\n\tDeghedy2016@gmail.com      or      FB.com/AbdelrahmandDeghedy\n";
         if ((x = ending_msg()))   continue;
     }
     }
